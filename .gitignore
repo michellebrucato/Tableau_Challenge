@@ -1,2 +1,5 @@
 # ignore mac files
 .DS_Store
+
+# ignore jupyter lab checkpoints
+.ipynb_checkpoints/
